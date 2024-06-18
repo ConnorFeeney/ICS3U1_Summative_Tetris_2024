@@ -1,0 +1,10 @@
+Connor:10150
+Storm:10000
+Cody:9150
+Mason:4150
+Shane:3300
+Dominic:3250
+Oliver:2900
+John:2500
+Maya:2350
+Ethan:150
